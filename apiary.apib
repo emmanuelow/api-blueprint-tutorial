@@ -34,6 +34,22 @@ Polls is a simple API allowing consumers to view polls and vote in them.
             ]
         }
 
+## Choice [/questions/{question_id}/choices/{choice_id}]
+
++ Parameters
+    + question_id: 1 (required, number) - ID of the Question in form of an integer
+    + choice_id: 1 (required, number) - ID of the Choice in form of an integer
+
+### Vote on a Choice [POST]
+
+This action allows you to vote on a question's choice.
+
++ Response 201
+
+    + Headers
+
+            Location: /questions/2
+
 ## Questions Collection [/questions{?page}]
 
 + Parameters
