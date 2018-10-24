@@ -56,6 +56,22 @@ This action allows you to vote on a question's choice.
 
 + Response 201
 
+## Choices [/questions/{question_id}/choices]
+
++ Parameters
+    + question_id: 1 (required, number) - ID of the Question in form of an integer
+    
+### View Choices available [GET]
+
++ Response 200
+
+        [
+            "Swift",
+            "Python",
+            "Objective-C",
+            "Ruby"
+        ]
+
 ## Questions Collection [/questions{?page}]
 
 + Parameters
