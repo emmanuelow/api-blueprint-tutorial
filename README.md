@@ -2,11 +2,11 @@
 Basic API Blueprint Tutorial with Polls API
 
 ## Links
-https://apiary.io
-https://github.com/emmanuelow/api-blueprint-tutorial (this repo)
-https://apiblueprint.org/documentation/tutorial.html
-https://help.apiary.io/
-http://dredd.org/en/latest/
+- https://apiary.io
+- http://bit.ly/api-design-tutorial (this repo)
+- https://apiblueprint.org/documentation/tutorial.html
+- https://help.apiary.io/
+- http://dredd.org/en/latest/
 
 ## Install Dredd
 ### npm
