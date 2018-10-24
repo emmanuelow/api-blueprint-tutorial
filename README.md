@@ -23,7 +23,7 @@ $ dredd
 $ docker run -it -v $PWD:/api -w /api apiaryio/dredd dredd
 ```
 
-### Running Dredd
+## Running Dredd
 ```
 $ dredd <My API Design file> <My running service URL>
 ```
