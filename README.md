@@ -30,6 +30,8 @@ $ dredd <My API Design file> <My running service URL>
 
 ## Tutorial
 
+Files in repo are keyed to Tutorial steps. E.g. `apiary1.apib` is the solution to Step 1 below.
+
 ### 0. Create a new API Design
 
 - Go into Apiary and “Create New API Project”
